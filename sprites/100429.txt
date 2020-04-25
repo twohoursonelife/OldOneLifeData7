@@ -1,1 +1,1 @@
-StoneWall 0 8 9
+goldenApfels 0 0 0
